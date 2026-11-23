@@ -1,4 +1,4 @@
-#Halfway
+# Halfway
 
 Meet somewhere fair.
 
@@ -6,7 +6,7 @@ Halfway is a London-based web application that helps two people find a convenien
 
 Rather than choosing the geographical midpoint between two locations, Halfway compares estimated travel times to suggest meeting areas that work for both people.
 
-##The Problem
+## The Problem
 
 Finding somewhere to meet in London isn't always straightforward.
 
@@ -14,7 +14,7 @@ A location that looks halfway on a map might take one person 15 minutes to reach
 
 Halfway aims to make that decision easier by comparing public transport journeys and identifying meeting areas based on travel time rather than physical distance.
 
-##How It Works
+## How It Works
 
 The planned application will allow users to:
 
@@ -34,7 +34,7 @@ Understand why a particular meeting area was recommended.
 
 Recommendations will be based on the best option among the meeting areas evaluated, rather than every possible location in London.
 
-##Tech Stack
+## Tech Stack
 
 The project is being developed using:
 
@@ -50,27 +50,27 @@ Vitest — Automated tests for the recommendation algorithm.
 
 Git & GitHub — Version control and project management.
 
-##Development Roadmap
+## Development Roadmap
 
-Build an accessible interface for selecting two starting locations.
+[ ] Build an accessible interface for selecting two starting locations.
 
-Retrieve and inspect a real journey using the TfL API.
+[ ] Retrieve and inspect a real journey using the TfL API.
 
-Implement and test both recommendation algorithms.
+[ ] Implement and test both recommendation algorithms.
 
-Display recommended meeting areas and journey comparisons.
+[ ] Display recommended meeting areas and journey comparisons.
 
-Deploy an initial version using clearly labelled sample data.
+[ ] Deploy an initial version using clearly labelled sample data.
 
-Integrate live TfL journey estimates.
+[ ] Integrate live TfL journey estimates.
 
-Handle invalid inputs, unavailable journeys and API errors.
+[ ] Handle invalid inputs, unavailable journeys and API errors.
 
-Test the application on desktop and mobile.
+[ ] Test the application on desktop and mobile.
 
-Publish the live application and document its limitations.
+[ ] Publish the live application and document its limitations.
 
-##Project Status
+## Project Status
 
 In development — initial setup.
 
@@ -78,7 +78,7 @@ The first milestone is to build a functional interface that captures two selecte
 
 The long-term goal for the initial release is a publicly accessible application using real TfL journey estimates.
 
-##Planned Limitations
+## Planned Limitations
 
 To keep the initial release focused:
 
@@ -90,7 +90,7 @@ Journey estimates will depend on the information returned by TfL.
 
 The application will not initially include maps, venue recommendations or user accounts.
 
-##Future Improvements
+## Future Improvements
 
 Potential improvements after the initial release include:
 
@@ -104,6 +104,6 @@ More detailed journey preferences and accessibility options.
 
 Support for groups of more than two people.
 
-##Author
+## Author
 
-Developed as an independent software engineering project to explore full-stack development, API integration, algorithm design and user-centred problem solving.
+Developed as an independent software engineering project to explore full-stack development, API integration, algorithm design and user centred problem solving.
